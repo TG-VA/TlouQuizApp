@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    width: 100vw;
+    background: url("https://images8.alphacoders.com/532/thumb-1920-532407.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.container{
+    position: relative;
+    width: 30rem;
+    padding: 4rem;
+    background: inherit;
+    border-radius: 5%;
+    text-align: center;
+    overflow: hidden;
+    animation: resplandor 3s linear infinite;
+    box-shadow: 1px 1px 33px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 1px 1px 33px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 1px 1px 33px 0px rgba(0,0,0,0.75);
+}
+
+
+
+    
+h1{
+    color: #fff;
+    font-size: 3rem;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#question{
+    font-size: 1.7rem;
+    color: #fff;
+}
+
+.button{
+    background-color: #34a3a3;
+    color: white;
+    width: 250px;
+    font-size: 20px;
+    border-radius: 1.3rem;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 40px 10px;
+    outline: 0;
+    transition: all 0.2s ease-in-out;
+}
+
+.button:hover{
+    cursor: pointer;
+    background: #57636e;
+    transition: all 0.2s ease-in-out;
+}
+
+#progress{
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+}
+
+h2 {
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+    padding: 10px 0;
+}
+
+p {
+    font-weight: 700;
+}
+
+h3 {
+    color: #34a3a3;
+    font-size: 5rem;
+}
