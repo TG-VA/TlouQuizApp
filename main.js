@@ -3,8 +3,6 @@ import { Quiz } from "./models/Quiz.js";
 import { UI } from "./models/UI.js";
 import { questions } from "./data/questions.js";
 
-const reloadButton = document.getElementById("reloadButton");
-
 // Renderring the page
 /**
  * 
