@@ -1,13 +1,13 @@
 export const data = [
     {
-        question : "¿Quién es el protagonista principal de The Last of Us?",
+        question : "¿Cuál es el nombre del antagonista principal en The Last of Us Part 2?",
         choices: [
-            "Joel",
-            "Ellie",
-            "Tommy",
-            "Sarah"
+            "Isaac",
+            "David",
+            "Marlene",
+            "Abby"
         ],
-        answer: "Joel"
+        answer: "Abby"
     },
     {
         question : "¿Cuál es la causa principal de la pandemia en el juego?",
@@ -20,54 +20,54 @@ export const data = [
         answer: "Plaga de hongos"
     },
     {
-        question : "¿Cuál es el nombre del grupo rebelde que Ellie y Joel encuentran durante su viaje?",
+        question : "¿Cuál es el nombre del grupo rebelde que Ellie y Joel se encuentran en The Last of Us Part 1?",
         choices: [
-            "Los Luciérnagas",
-            "Los Renegados",
-            "Los Salvadores",
-            "Los Cazadores"
+            "Fireflies",
+            "Hunters",
+            "Scavengers",
+            "Runners"
         ],
-        answer: "Los Luciérnagas"
+        answer: "Fireflies"
     },
     {
-        question : "¿En qué ciudad comienza la historia del juego?",
+        question : "¿Cuál es el nombre del actor que interpreta a Joel en los juegos de The Last of Us?",
         choices: [
-            "Austin",
-            "Boston",
-            "Pittsburgh",
-            "Denver"
+            "Troy Baker",
+            "Nolan North",
+            "Ashley Johnson",
+            "Roger Clark"
         ],
-        answer: "Boston"
+        answer: "Troy Baker"
     },
     {
-        question : "¿Cuál es el objetivo principal de Joel y Ellie en el juego?",
+        question : "¿Cuál es el nombre del hermano de Joel en The Last of Us Part 1?",
         choices: [
-            "Escapar de la cuarentena",
-            "Encontrar una cura para la pandemia",
-            "Rescatar a un familiar secuestrado",
-            "Sobrevivir a los infectados"
+            "Tommy",
+            "Bill",
+            "David",
+            "Henry"
         ],
-        answer: "Encontrar una cura para la pandemia"
+        answer: "Tommy"
     },
     {
-        question : "¿Cuál es el nombre del compañero canino que ayuda a Ellie en The Last of Us Part II?",
+        question : "¿Cuál es el nombre del grupo de supervivientes liderado por Abby en The Last of Us Part 2?",
         choices: [
-            "Max",
-            "Riley",
-            "Bear",
-            "Alice"
+            "Wolves",
+            "Fireflies",
+            "Scars",
+            "Seraphites"
         ],
-        answer: "Bear"
+        answer: "Wolves"
     },
     {
-        question : "¿Qué tipo de arma es el arma característica de Ellie en el juego?",
+        question : "En The Last of Us Part 1, ¿cuál es el apodo que Joel le da a Ellie?",
         choices: [
-            "Rifle de francotirador",
-            "Ballesta",
-            "Escopeta",
-            "Arco y flechas"
+            "Sunshine",
+            "Little Bird",
+            "Kiddo",
+            "Ellie no tiene un apodo"
         ],
-        answer: "Ballesta"
+        answer: "Kiddo"
     },
     {
         question : "¿En qué año fue lanzado el primer juego de The Last of Us?",
